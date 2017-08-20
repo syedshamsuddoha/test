@@ -1,0 +1,7 @@
+This is a GIT repo
+I need to simulate the following:
+	1. a remote repo;
+	2. a local staging area; and 
+	3. a local working area for the changes.
+
+How do I do it without any remote system? I don't know. Might need to have the GitHub setup ...
