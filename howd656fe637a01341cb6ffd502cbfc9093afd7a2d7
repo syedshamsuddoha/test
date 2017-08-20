@@ -1,0 +1,65 @@
+[33mcommit d656fe637a01341cb6ffd502cbfc9093afd7a2d7[m
+Author: syed <sshamsud@yahoo.com>
+Date:   Mon Aug 21 02:29:41 2017 +1200
+
+    committing touchy
+
+[33mcommit 1bc09eee1efced7f0de75ea72ef713c87761b53e[m
+Author: syed <sshamsud@yahoo.com>
+Date:   Mon Aug 21 02:27:20 2017 +1200
+
+    touch_file being committed into syed_branch only
+
+[33mcommit d6dcc18a428764505efcd14e42845f34d1ff4581[m
+Author: syed <sshamsud@yahoo.com>
+Date:   Mon Aug 21 02:18:10 2017 +1200
+
+    Add syed_branch_first_file into syed_branch
+
+[33mcommit d7a0eff73c8081627f71626236cd8137e34f9291[m
+Author: syed <sshamsud@yahoo.com>
+Date:   Mon Aug 21 02:01:16 2017 +1200
+
+    deleting file_to_delete_1
+
+[33mcommit 40dd9b3e7468120eb9fb925e71cfb6691665dd3d[m
+Author: syed <sshamsud@yahoo.com>
+Date:   Mon Aug 21 01:57:21 2017 +1200
+
+    Adding file_to_delete_1 and file_to_delete_2 into the repo
+
+[33mcommit 5aa9e2ec907e8009b69b1a5c3f7911ec1b64ae55[m
+Author: syed <sshamsud@yahoo.com>
+Date:   Mon Aug 21 01:54:07 2017 +1200
+
+    committing both file_x and file_y into repo after changes
+
+[33mcommit da76fc62583f13f89c063047130695211fb7af2a[m
+Author: syed <sshamsud@yahoo.com>
+Date:   Mon Aug 21 01:36:10 2017 +1200
+
+    sample.c modified and committing into the repo
+
+[33mcommit 98a8ced858a47872fd73bcd02161e5b53fdfcd83[m
+Author: syed <sshamsud@yahoo.com>
+Date:   Mon Aug 21 01:33:47 2017 +1200
+
+    Commiting file_y into the repo
+
+[33mcommit 7d3de1ae779d1dcf296a8f9093ee020f7698e764[m
+Author: syed <sshamsud@yahoo.com>
+Date:   Mon Aug 21 01:29:15 2017 +1200
+
+    Commiting file_x into the repo
+
+[33mcommit b149647f5f1a52f4c8c57ed8a0d9d17215136d15[m
+Author: syed <sshamsud@yahoo.com>
+Date:   Mon Aug 21 00:57:22 2017 +1200
+
+    These are the first real files I need to commit to the REPO
+
+[33mcommit 7da6d6f48a8b0fc93b8af6477ec892f9e4bdafc1[m
+Author: syed <sshamsud@yahoo.com>
+Date:   Mon Aug 21 00:28:15 2017 +1200
+
+    Starting to use git
